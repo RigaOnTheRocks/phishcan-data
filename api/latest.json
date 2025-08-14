@@ -1,0 +1,13 @@
+{
+  "status": "success",
+  "data": {
+    "lastUpdated": "2025-08-14T22:38:05Z",
+    "domainCount": 233,
+    "generatedBy": "bank_phishing.py",
+    "downloadUrls": {
+      "txt": "https://raw.githubusercontent.com/RigaOnTheRocks/phishcan-data/main/data/banking-phishing-domains.txt",
+      "js": "https://raw.githubusercontent.com/RigaOnTheRocks/phishcan-data/main/data/banking-threats.js",
+      "metadata": "https://raw.githubusercontent.com/RigaOnTheRocks/phishcan-data/main/data/metadata.json"
+    }
+  }
+}
