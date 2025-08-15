@@ -1,12 +1,2576 @@
 // Auto-generated banking phishing feed from PhishCan VPS
-// Last updated: 2025-08-15T02:07:41.856752
-// Total domains: 0
+// Last updated: 2025-08-15T02:13:28.033328
+// Total domains: 233
 
-export const bankingPhishingDomains = [];
+export const bankingPhishingDomains = [
+  {
+    "domain": "1wvw.scotiaweb1-online-scotiabank.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "1ww.scotiabank.com.online-scotiabnk3.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "access.tdbank.online.netspar.net",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "alert-easyweb-td.org",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "anixter-rbc.tk",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "app-online-rbc.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "auth-easy-webb-td.org",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "auth-td-online.cyou",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "auth-td-online.link",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "auth-td-online.xyz",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "auth.scot.ia.online.authorise-device.info",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "auth.scotiaonline.scotiabank.com.cbo.support",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "auth.scotiaonline.scotiabank.com.twsupp.org",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "auth.scotiaonline.scotiabank.com.wo-ix.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "auth.scotiaonline.scotiabank.com.wzx-ox.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "authencation-td-easyweb.org",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "authentication-scotiaonline.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "authentication-td-mobile.cyou",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "authentication-td-mobile.xyz",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "authentication-td-online.cyou",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "authentication-td-online.xyz",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "authentication-td.click",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "authentication-td.link",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "authentication.td-ba.top",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "authentication.td-bahk.link",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "authentication.tdcanada.com.avionrewardgift.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "case-fitting-title-td.trycloudflare.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "claimdanakagetmudisini.wb-td.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "delivery-td.ml",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "dev-bnk-scotiabank-peru.pantheonsite.io",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "dev-www1-royalbank-com.pantheonsite.io",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "diskussionsforen-ebay-community-boards-td-s1.html-5.me",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "easyweb-login-td.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "easyweb-td-authlogin.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "easyweb.td-on.limited",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "egift.rbc.usafeaustralia.com.au",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "eqv.td-k.my.id",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "etransfer.interac.ca-td.club",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "facebook.com-linkedin.com.td-recruitment-office.ro",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "homepersonalonline-rbc.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "isn1-scotiabank.azurewebsites.net",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "mail.authentication-scotiaonline.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "my-rbc.us",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "my-td-dashboard.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "my-td-summary.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "myappweb-td.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "myweb-app-td.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "online-rbc-royal.netlify.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "online-rbcroyalbank.netlify.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "online.scotiabank.i1i0.xyz",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "online.scotiabank.mx01online.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "online.scotiabank.mxdigital987.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "onlinebanking-tdbank.duckdns.org",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "onlinebanking.tdbank.com.authentication.login.2e4d508de463170e08b7662e4d508.wakeupbroadband.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "onlinebanking.tdbank.com.zlinkyemen.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-01.netlify.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-07801b.netlify.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-0c4992.netlify.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-21be6e.netlify.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-513122.netlify.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-5ce44.web.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-5dba56.netlify.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-8766.netlify.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-8a0c63.netlify.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-bnk.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-c2d68f.netlify.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-com.heteml.net",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-financial-secured.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-line.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-mainline.web.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-mobile-alert.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-onclick.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-royal.teamworxs.co.za",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-royalalerts.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-royalbnk.netlify.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-service.cf",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-signon-app.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-verification-utilisateurs-ca.bsaty.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-verify.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-verify2.web.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-verifylogin5.web.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc-web-customers.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc.ca-authid.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc.com.10-123-43-27.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc.personalizedprescribing.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc.royalbankofcanada-online1-secure-signin1.wallsandfences.com.au",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbc.secureid-ca.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbcroyal-alert.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbcroyal-alerts.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbcroyal-secure.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbcroyalbank-secured.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbcroyalbank.2web-ca.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbcroyalbank.ca-auth2.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbcroyalbank.ca-online2.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbcroyalbank.ca-web1.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbcroyalbank.com.amsarmedical.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbcroyalbank.com.karachijobsupdate.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbcroyalbank.com.kerjapandai.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbcroyalbank.com.tacosdonmanolito.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbcroyalbank.mallmannconsultoria.com.br",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbcroyalbank.netlify.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "rbcroyalbank.top",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "restablecimiento.scotia.repl.co",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "royalbank-rbc.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "royalbank-unlock.link",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "royalbank.cgi-bin-rbaccess-rbcgi2m01f21f-f73ibrequest.digital",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "royalbank.com.cgi-bin-rbaccess-rbcgi2m01f21f-f73ibrequest.life",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "royalbank.com.cgi-bin-rbaccess-rbcgi2m01f21f-f73ibrequest.live",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "royalbank.com.cgi-bin-rbaccess-rbcgi2m01f21f-f73ibrequest.shop",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "royalbank.com.cgi-bin-rbaccess-rbcgi3m01f51f-f23ibrequest.info",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "royalbank.com.cgi-bin-rbaccess-rbcgi3m01f51f-f73ibrequest.life",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "royalbank.com.cgi-bin-rbaccess-rbcgi3m01f51f-f73ibrequest.shop",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "royalbank.com.cgi-bin-rbaccess-rbcgi3m01f61f-f21ibrequest.info",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "royalbank.com.cgi-bin-rbaccess-rbcgi3m01f61f-f22ibrequest.info",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotia-4287.netlify.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotia-4500.netlify.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotia-4536.web.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotia-bank-online-verify-account-on-hold-187263.businesscentrenewyork.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotia-ca956.web.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotia-clientvalidation.one",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotia-d6547.web.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotia-e6048.vercel.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotia-f4577.web.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotia-level3upgrade.litlls.buzz",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotia-online-info.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotia-protege-online.zya.me",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotia-s6579.web.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotia-scm.web.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotia-secure-2fauth-9a276d.netlify.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotia-validacionesonlinepe.liveblog365.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotia-validationforum.one",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotia-verifica-2023.paolitatim.repl.co",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotia-verifyca.vercel.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotia.1mobile-web.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotia.authonline-bs.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotia.inononline.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotiabank-1.scotiabankverif.repl.co",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotiabank-1.scotiaverify.repl.co",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotiabank-canalesvirtuales.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotiabank-chat.web.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotiabank-helpcentre.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotiabank-helpdesk.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotiabank-supportdesk.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotiabank-yieldmorefinancing.ca",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotiabank.assetlogins.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotiabank.ca.rds0-sslq-22w.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotiabank.ca.s9d-40l-ssl-fr3.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotiabank.ca.sco-rd2-3w.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotiabank.ca.ssl-f45-sf.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotiabank.ca.ssl9-cds-secure.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotiabank.ca.w3-f5-d43-q0.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotiabank.com.mx.xtgco.cee0.xyz",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotiabank.mx-xcom.xyz",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotiabank.security.zya.me",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "scotiabank.whereisacopwhenyouneedone.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "secure-rbc.duckdns.org",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "secure-scotiabank.net",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "secure-scotiabank.sytes.net",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "secure.royalbank.erafde.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "secure.royalbank.irercc.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "securerbc-royalbank.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "securesign-rbcroyal.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "security-alert-td.sbs",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-active01a.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-alertseasywb.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-app1wb.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-autheasy1wb.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-authweb.net",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-bank-secure.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-ca-trust.club",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-ca-trust.cyou",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-ca-unverified-payees.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-canada-trust.cyou",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-canada-trust.work",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-cc.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-dev.tsbc.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-dominion-secure.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-ease-web.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-easywb-myprofile.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-emn.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-hcn.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-hin.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-icn.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-jin.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-min.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-mywebaccess.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-oin.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-onlinebnking.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-rin.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-rmn.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-secure.buyermapping.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-secure.ca",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-secure.springreport.net",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-signon-easy.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-sin.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td-web.acc-ld.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.1access-mobi.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.1auth-web.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.2easy-auth.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.2easyauth.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.2web-ca.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.2webauth.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.access-auth1.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.accesscard1.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.act1-solution.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.auth-access2.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.auth-ca2.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.auth-easyline.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.auth1-web.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.auth1web.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.auth2acc.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.ca-easy2web.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.cardaccess1.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.cincinnatilibrary.org.tiburonmechanical.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.com.auth0-account.ltd",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.com.set-login.group",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.doorservicecompany.net.tiburonmechanical.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.foxtrot47.dev",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.gerberlumber.com.tiburonmechanical.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.naylorbreen.com.tiburonmechanical.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.paarlo.com.tiburonmechanical.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.pinnacleplasticproducts.com.tiburonmechanical.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.secure-2auth.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.secure-web1.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.web2-auth.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "td.webacc-ca2.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "tdbank-mobile.duckdns.org",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "tdbank-onlinebanking1.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "tdcanada-authentication.biz",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "tdcanada-authentication.link",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "verify-user-rbc.web.app",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "www-1auth-td.com",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  },
+  {
+    "domain": "www-rbc-online.net",
+    "description": "Phishing site targeting Canadian banking",
+    "dateReported": "2025-08-15",
+    "riskLevel": "high",
+    "keywords": [
+      "banking",
+      "phishing",
+      "canada"
+    ]
+  }
+];
 
 export const metadata = {
-  lastUpdated: "2025-08-15T02:07:41.856815",
-  totalDomains: 0,
+  lastUpdated: "2025-08-15T02:13:28.035698",
+  totalDomains: 233,
   feedType: "banking-phishing",
   source: "PhishCan VPS"
 };
