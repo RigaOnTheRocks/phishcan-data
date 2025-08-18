@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2025-08-18T10:40:02Z",
+  "lastUpdated": "2025-08-18T22:40:07Z",
   "domainCount": 233,
   "feedType": "banking-phishing",
   "source": "PhishCan VPS",
-  "version": "20250818064002",
+  "version": "20250818184007",
   "generatedBy": "bank_phishing.py"
 }
