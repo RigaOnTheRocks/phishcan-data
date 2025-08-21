@@ -5,6 +5,7 @@ alert-easyweb-td.org
 anixter-rbc.tk
 app-online-rbc.com
 auth-easy-webb-td.org
+auth-royalbank.com
 auth-td-online.cyou
 auth-td-online.link
 auth-td-online.xyz
